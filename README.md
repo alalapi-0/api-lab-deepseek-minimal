@@ -2,6 +2,9 @@
 
 > 最小化体验：用 DeepSeek（或同类低成本 OpenAI-compatible 服务）调一次聊天 API。
 
+> 想"通过实操验证理解"而不是"只把代码跑通"？请先翻 [`LEARNING.md`](./LEARNING.md)：
+> 里面有 **学习目标 / 实操验证清单 / 自检题 / 跟其它仓库的连接**。本 README 主要负责"具体怎么跑"。
+
 ## 它在做什么 / 为什么单独做这一仓
 
 DeepSeek 这类「低成本 OpenAI-compatible」模型，调用方式跟 OpenAI 几乎一样。
